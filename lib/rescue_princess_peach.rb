@@ -1,6 +1,6 @@
-def rescue_princess_peach(status = Hooray! Mario has rescued Princess Peach.)
-  
-  puts status
+def rescue_princess_peach("Hooray! Mario has rescued Princess Peach.")
+  status = "rescued"
+  puts "Hooray! Mario has rescued Princess Peach."
 end
 
 ## Comment the below back in to see method scope in action!
