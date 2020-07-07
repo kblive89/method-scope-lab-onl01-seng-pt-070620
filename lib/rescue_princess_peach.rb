@@ -1,5 +1,5 @@
-def rescue_princess_peach(Hooray! Mario has rescued Princess Peach.)
-  status = "rescued"
+def rescue_princess_peach(status = Hooray! Mario has rescued Princess Peach.)
+  
   puts status
 end
 
